@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "훈더덕"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am "
+  avatar           : "/assets/images/profile.jpg"
+  bio              : "개발보다 음악이 더 좋아요"
   location         : "Seoul, South Korea"
   email            :
   links:
