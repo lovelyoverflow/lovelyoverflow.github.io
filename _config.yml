@@ -23,14 +23,14 @@ name                     : "훈더덕"
 description              : "개발도 하고 음악도 하고"
 url                      : "https://lovelyoverflow.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "lovelyoverflow/lovelyoverflow.github.io"
+repository               : "lovelyoverflow/comments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : utterances # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -41,8 +41,8 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light"
+    issue_term           : "pathname"
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
     category_name        : # Full text name of the category
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "훈더덕"
-  avatar           : "/assets/images/profile.jpg"
+  avatar           : "/assets/images/profile.JPG"
   bio              : "개발보다 음악이 더 좋아요"
   location         : "Seoul, South Korea"
   email            :
