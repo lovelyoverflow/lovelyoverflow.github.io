@@ -582,5 +582,15 @@ body {
    ========================================================================== */
    
 .utterances {
-  max-width: 80% !important;
+  max-width: 100% !important;
+  
+  @include breakpoint($medium) {
+      max-width: 80% !important;
+  }
+  @include breakpoint($large) {
+      max-width: 80% !important;
+  }
+  @include breakpoint($x-large) {
+      max-width: 80% !important;
+  }
 }
