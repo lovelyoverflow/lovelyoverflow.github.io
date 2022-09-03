@@ -4,7 +4,7 @@ excerpt: "temporary post excerpt"
 header:
     teaser: /assets/images/temporary-post/teaser.JPG
 
-published: true
+published: false
 
 categories:
   - Category1
