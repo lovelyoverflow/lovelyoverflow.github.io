@@ -1,9 +1,8 @@
 ---
 title:  "temporary post"
 excerpt: "temporary post excerpt"
-
-toc: true
-toc_sticky: true
+header:
+    teaser: /assets/images/temporary-post/teaser.JPG
 
 published: true
 
