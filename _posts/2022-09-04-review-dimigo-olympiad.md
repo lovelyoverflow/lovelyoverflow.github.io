@@ -1,5 +1,6 @@
 ---
 title:  "제12회 전국 중학생 IT 올림피아드 후기"
+excerpt: "실패하면 다시 해보면 되지"
 
 header:
     teaser: /assets/images/review-dimigo-olympiad/teaser.JPG
