@@ -10,7 +10,7 @@ classes: wide
 toc: false
 toc_sticky: false
 
-published: true
+published: false
 
 categories:
   - 일상/후기
